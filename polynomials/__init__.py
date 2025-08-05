@@ -1,1 +1,1 @@
-from .polynomials import Polynomial  # noqa F401
+from .polynomials import Polynomial, derivative  # noqa F401
