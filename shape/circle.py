@@ -1,5 +1,6 @@
 from math import dist
 
+
 class Circle:
     def __init__(self, centre, radius):
         self.centre = centre
@@ -10,5 +11,3 @@ class Circle:
             return True
         else:
             return False
-
-
